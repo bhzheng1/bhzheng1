@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am BZ👋
+- :zap: I like the quote:  “Think twice, code once.” ― Waseem Latif
 
 [![Bhzheng's github stats](https://github-readme-stats.vercel.app/api?username=bhzheng1&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
