@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-wrap: nowrap;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhzheng1&theme=default)
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhzheng1&theme=default
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhzheng1&theme=default)
 
