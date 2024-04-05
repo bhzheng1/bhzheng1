@@ -1,7 +1,7 @@
 ### Hi there, I am BZ👋
 - “Think twice, code once.” ― Waseem Latif
 
-[![Bhzheng's github stats](https://github-readme-stats.vercel.app/api?username=bhzheng1&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhzheng's github stats](https://github-readme-stats.vercel.app/api?username=bhzheng1&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhzheng1&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
