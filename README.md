@@ -1,12 +1,8 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+### Hi there, I am Merrick👋
 
-### Hi there, I am BZ👋
-
--   “Think twice, code once.” ― Waseem Latif
+-   🦖 I’m a Software Engineer and Data Scientist.
+-   🔭 I’m currently working on Web Development.
+-   🌱 I’m currently learning LLM.
 
 ![](https://github-readme-stats.vercel.app/api?username=bhzheng1&count_private=true&show_icons=true&theme=aura_dark)
 
