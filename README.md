@@ -1,16 +1,19 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ### Hi there, I am BZ👋
 
 -   “Think twice, code once.” ― Waseem Latif
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhzheng1&theme=default)
 
-<div style="display: flex; flex-wrap: nowrap;">
+| <!-- -->                                                                                                         | <!-- -->                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhzheng1&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhzheng1&theme=default) |
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhzheng1&theme=default
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhzheng1&theme=default)
-
-</div>
 <div style="display: flex; flex-wrap: nowrap;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhzheng1&theme=default)
