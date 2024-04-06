@@ -4,7 +4,14 @@
 -   🔭 I’m currently working on Web Development.
 -   🌱 I’m currently learning LLM.
 
-![](https://github-readme-stats.vercel.app/api?username=bhzheng1&count_private=true&show_icons=true&theme=aura_dark)
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhzheng1&theme=nord_bright" alt="bhzheng1" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhzheng1&theme=nord_bright" alt="bhzheng1" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhzheng1&theme=nord_bright" alt="bhzheng1" />
+</p>
 
 <!--
 **bhzheng1/bhzheng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
